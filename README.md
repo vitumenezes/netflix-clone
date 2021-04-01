@@ -9,7 +9,7 @@ Made with React and using API data from themoviedb.org
 
 ## Demo
 
-<img src="images-readme/gif.gif" />
+<img src="images-readme/demo.gif" />
 
 ## Loading Screen
 <img src="images-readme/loading.gif" width="600" />
